@@ -12,3 +12,16 @@ A place where I practice Python.
 ```
 print("hello world")
 ```
+- writes 'hello world in terminal
+```
+import random
+
+print(random.randrange(-18, 36))
+```
+- random  number generator
+```
+
+  a = "I am TechnoDot!"
+  print(a.replace("TechnoDot", "SirAlexBigBrain"))
+  ```
+  - replaces one phrase with another
