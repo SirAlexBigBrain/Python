@@ -44,4 +44,7 @@ if "fencer" in txt:
   print(a.upper())
 
   a = "I am TechnoDot!"
-print(a.replace("TechnoDot", "SirAlexBigBrain"))
+  print(a.replace("TechnoDot", "SirAlexBigBrain"))
+
+  s = w
+  print(capitalize(s))	
