@@ -19,6 +19,8 @@ print(y)
 print(z)
 x = "I am so awesome"
 print(x)
+
+x = "totally not bros. no way no how."
 def myfunc():
   print("Hardwaregore and TechnoDot are " + x)
   
