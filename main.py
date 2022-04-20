@@ -42,3 +42,6 @@ if "fencer" in txt:
 
   a = "I Play Soccer!"
   print(a.upper())
+
+  a = "I am TechnoDot!"
+print(a.replace("TechnoDot", "SirAlexBigBrain"))
