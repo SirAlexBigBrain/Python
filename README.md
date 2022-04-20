@@ -13,6 +13,7 @@ A place where I practice Python.
 print("hello world")
 ```
 - writes 'hello world in terminal
+
 ```
 import random
 
