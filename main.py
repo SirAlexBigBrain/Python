@@ -17,3 +17,5 @@ x, y, z = Names
 print(x)
 print(y)
 print(z)
+x = "I am so awesome"
+print(x)
