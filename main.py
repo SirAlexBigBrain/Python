@@ -24,3 +24,10 @@ def myfunc():
   
   myfunc()
   
+Alex = 1234567890"
+Q = "2.12"
+Z = 67j"
+
+print(int(Alex))
+print(float(Q))
+print(complex(Z))
