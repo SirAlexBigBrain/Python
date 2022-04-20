@@ -9,7 +9,7 @@ print(x)
 print(y)
 my_variable = 'Techdudie'
 print("my_variable is the best!")
-a, b, = 'TechnoDot', 'HardwaregoreSUX'
+a, b, = 'TechnoDot', 'Hardwaregore'
       print(a)
       print(b)
       Names = ["@SirAlexBigBrain", "@TechnoDot", "@Hardwaregore"]
@@ -17,5 +17,5 @@ x, y, z = Names
 print(x)
 print(y)
 print(z)
-x = "I am so awesome"
+z = "I am so awesome"
 print(x)
