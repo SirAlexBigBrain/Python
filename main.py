@@ -7,3 +7,5 @@ y = "Technodot"
 x = "Hardwaregore"
 print(x)
 print(y)
+my_variable = 'Techdudie'
+print("my_variable is the best!')
