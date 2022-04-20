@@ -20,7 +20,7 @@ print(z)
 x = "love video games!!!"
 print(x)
 def myfunc():
-  print("HardwaregoreSUX and TechnoDot are " + x)
+  print("Hardwaregore and TechnoDot are " + x)
   
   myfunc()
   
