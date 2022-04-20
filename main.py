@@ -48,3 +48,7 @@ if "fencer" in txt:
 
   s = w
   print(capitalize(s))	
+
+  print(10 > 9)
+print(10 == 9)
+print(10 < 9)
