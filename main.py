@@ -39,3 +39,6 @@ print(random.randrange(-18, 36))
 txt = "I am a fencer!"
 if "fencer" in txt:
   print("Yes, 'fencer' is present.")
+
+  a = "I Play Soccer!"
+print(a.upper())
