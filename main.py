@@ -31,3 +31,7 @@ Z = 67j"
 print(int(Alex))
 print(float(Q))
 print(complex(Z))
+
+import random
+
+print(random.randrange(-18, 36))
