@@ -41,4 +41,4 @@ if "fencer" in txt:
   print("Yes, 'fencer' is present.")
 
   a = "I Play Soccer!"
- print(a.upper())
+  print(a.upper())
