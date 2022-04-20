@@ -5,5 +5,5 @@ if -3 > -4:
   print("Negative three is greater than negative four!")
 y = 5
 x = 2
-z = 
-echo
+z = (x + y)
+echo ("The answer is z!")
