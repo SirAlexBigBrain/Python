@@ -16,12 +16,10 @@ print("hello world")
 
 ```
 import random
-
 print(random.randrange(-18, 36))
 ```
 - random  number generator
 ```
-
   a = "I am TechnoDot!"
   print(a.replace("TechnoDot", "SirAlexBigBrain"))
   ```
