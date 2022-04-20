@@ -12,3 +12,8 @@ print("my_variable is the best!')
 a, b, = 'TechnoDot', 'HardwaregoreSUX'
       print(a)
       print(b)
+      Names = ["@SirAlexBigBrain", "@TechnoDot", "@Hardwaregore"]
+x, y, z = Names
+print(x)
+print(y)
+print(z)
