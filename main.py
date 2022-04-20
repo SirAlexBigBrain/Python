@@ -37,4 +37,5 @@ import random
 print(random.randrange(-18, 36))
 
 txt = "I am a fencer!"
-print("fencer" in txt)
+if "fencer" in txt:
+  print("Yes, 'fencer' is present.")
