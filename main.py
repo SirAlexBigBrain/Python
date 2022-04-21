@@ -68,3 +68,6 @@ else:
   mylist = ["A", "W", "Y"]
 print(mylist)
 
+thislist = ["a", "b", "c"]
+print(len(thislist))
+
