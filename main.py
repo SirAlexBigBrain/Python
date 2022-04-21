@@ -91,3 +91,14 @@ thisdict = {
   "year": 2021
 }
 print(thisdict)
+
+a = 23140
+b = 33333
+if b > a:
+  print("b is greater than a")
+elif a == b:
+  print("a and b are equal")
+else:
+  print("a is greater than b")
+  
+  print(a / b)
