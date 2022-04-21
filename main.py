@@ -124,5 +124,5 @@ else:
 
   my_function("Bash", "Python")
 
-  people = ["Yabo", "Alex", "Wenqian"]
+  people = ["@YOU", "@ME", "@PERSON OVER THERE"]
   print(people)
