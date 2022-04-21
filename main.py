@@ -104,6 +104,6 @@ else:
   print(a / b)
 
   i = 1
-while i < 6:
+while i < 200:
   print(i)
   i += 1
