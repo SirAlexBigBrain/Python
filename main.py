@@ -64,3 +64,7 @@ else:
   x = 4
   y = 3
   print(x**y)
+
+  mylist = ["A", "W", "Y"]
+print(mylist)
+
