@@ -118,3 +118,8 @@ else:
     
     
     print(my_funtion())
+
+    def my_function(*language):
+  print("The better coding language is " + language[1])
+
+my_function("Bash", "Python")
