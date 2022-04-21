@@ -107,3 +107,8 @@ else:
 while i < 200:
   print(i)
   i += 1
+
+   x in range(6):
+  print(x)
+else:
+  print("Whew! I'm done!")
