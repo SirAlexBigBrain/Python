@@ -84,3 +84,9 @@ while i < len(thislist):
   list2 = [100, 50, 65, 82, 23]
 list2.sort()
 print(list2)
+
+thisdict = {
+  "brand": "EA fencing",
+  "model": "Pistol Grip",
+  "year": 2021
+}
