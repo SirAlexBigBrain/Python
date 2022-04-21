@@ -24,3 +24,8 @@ print(random.randrange(-18, 36))
   print(a.replace("TechnoDot", "SirAlexBigBrain"))
   ```
   - replaces one phrase with another
+  ```
+  mylist = ["A", "W", "Y"]
+print(mylist)
+```
+- prints what is written in the list
