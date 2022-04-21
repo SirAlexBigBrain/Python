@@ -112,3 +112,9 @@ while i < 200:
   print(x)
 else:
   print("Whew! I'm done!")
+
+  def my_function():
+    print("Python is so much more efficent! " + a - b)
+    
+    
+    print(my_funtion())
