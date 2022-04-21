@@ -126,3 +126,5 @@ else:
 
   people = ["@YOU", "@ME", "@PERSON OVER THERE"]
   print(people)
+
+  people[0] = "not you, Y"
