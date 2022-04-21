@@ -80,3 +80,7 @@ while i < len(thislist):
   list1 = ["@Al", "@We", "@Ya"]
   list1.sort()
   print(list1)
+
+  list2 = [100, 50, 65, 82, 23]
+list2.sort()
+print(list2)
