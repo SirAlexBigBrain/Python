@@ -102,3 +102,8 @@ else:
   print("a is greater than b")
   
   print(a / b)
+
+  i = 1
+while i < 6:
+  print(i)
+  i += 1
