@@ -76,3 +76,7 @@ i = 0
 while i < len(thislist):
   print(thislist[i])
   i = i + 1
+
+  list1 = ["@Al", "@We", "@Ya"]
+  list1.sort()
+  print(list1)
