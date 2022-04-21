@@ -128,3 +128,5 @@ else:
   print(people)
 
   people[0] = "not you, Y"
+  
+  people.remove("@ME")
