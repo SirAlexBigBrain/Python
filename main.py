@@ -124,5 +124,5 @@ else:
 
   my_function("Bash", "Python")
 
-  people_who_are_smart = ["Yabo", "Alex", "Wenqian"]
-  print(people_who_are_smart)
+  people = ["Yabo", "Alex", "Wenqian"]
+  print(people)
