@@ -71,3 +71,8 @@ print(mylist)
 thislist = ["a", "b", "c"]
 print(len(thislist))
 
+thislist = ["QwErTy", "QWERTY", "qwerty"]
+i = 0
+while i < len(thislist):
+  print(thislist[i])
+  i = i + 1
