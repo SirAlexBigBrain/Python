@@ -90,3 +90,4 @@ thisdict = {
   "model": "Pistol Grip",
   "year": 2021
 }
+print(thisdict)
