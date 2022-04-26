@@ -130,3 +130,9 @@ else:
   people[0] = "not you, Y"
   
   people.remove("@ME")
+
+  mytuple = ("@SirAlexBigBrain", "@TechnoDot", "@Hardwaregore")
+  myit = iter(mytuple)
+  print(next(myit))
+  print(next(myit))
+  print(next(myit))
