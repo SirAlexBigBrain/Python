@@ -135,4 +135,7 @@ else:
   myit = iter(mytuple)
   print(next(myit))
   print(next(myit))
-  print(next(myit))
+  print(nex:
+        
+  people = "Wenqian and Yabo!
+        f"I like {people}"
